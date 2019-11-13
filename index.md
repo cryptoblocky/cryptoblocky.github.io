@@ -1,5 +1,14 @@
 ## Portfolio
 
+ logo: "/images/clau-1-0.JPEG?raw=true" # your photo (or logo) here
+ title: Claudia Perez # your name (or website title) here 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+
 ---
 
 ### Unsupervised Learning
